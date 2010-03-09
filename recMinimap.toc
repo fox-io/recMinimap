@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: recMinimap
+## Notes: Minimap tweaks
+## Author: Recluse
+## Version: $Id: recMinimap.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+## Dependencies: recPanels, recMedia, recLib
+
+core.lua
+modules\coordinates.lua
+modules\tracking.lua
